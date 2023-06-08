@@ -1,0 +1,44 @@
+_repo: The-abandoned-farm-and-Connie-s-mistake_70893
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Grant, Gordon
+    alias: Grant, Gordon H.
+    birthdate: 1875
+    deathdate: 1962
+    gutenberg_agent_id: '8049'
+    url: http://www.gutenberg.org/2009/agents/8049
+    wikipedia: https://en.wikipedia.org/wiki/Gordon_Grant_(artist)
+creator:
+  author:
+    agent_name: Holmes, Mary Jane
+    aliases:
+    - Holmes, Mary Jane (Hawes)
+    - Holmes, Mary J.
+    birthdate: 1825
+    deathdate: 1907
+    gutenberg_agent_id: '1239'
+    url: http://www.gutenberg.org/2009/agents/1239
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Jane_Holmes
+description: ''
+gutenberg_issued: '2023-06-02'
+identifiers:
+  gutenberg: '70893'
+language: en
+pgterms:marc904: https://archive.org/details/abandonedfarmcon00holm
+pgterms:marc905: 20210108205504holmes
+pgterms:marc906: '1901'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bG. W. Dillingham Company, $c1901, copyright
+  1902, copyright 1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- 20th century'
+- !lcc 'PS'
+- GITenberg
+title: The abandoned farm, and Connie's mistake
+url: http://www.gutenberg.org/ebooks/70893
