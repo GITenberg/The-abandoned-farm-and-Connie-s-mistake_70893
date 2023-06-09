@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '8049'
     url: http://www.gutenberg.org/2009/agents/8049
     wikipedia: https://en.wikipedia.org/wiki/Gordon_Grant_(artist)
+covers:
+- cover_type: archival
+  image_path: 70893-h/images/cover.jpg
 creator:
   author:
     agent_name: Holmes, Mary Jane
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1239
     wikipedia: https://en.wikipedia.org/wiki/Mary_Jane_Holmes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70893#The-abandoned-farm-and-Connie-s-mistake
 gutenberg_issued: '2023-06-02'
 identifiers:
   gutenberg: '70893'
